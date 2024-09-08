@@ -1,0 +1,7 @@
+N=10^5
+T=rep(0,N)
+for(i in 1:N){
+  t=rexp(5,12)
+  T[i]=sum(t)
+}
+resp=sum(T)/N
