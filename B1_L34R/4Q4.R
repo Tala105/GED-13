@@ -11,4 +11,4 @@
 ### = pv(nc^2-nc*b) + pc(b*nc-nc^2) + pv*(a^2/2-nc^2/2) + pc(nc^2-nc*a) =
 ### = pv(nc^2/2-nc*b-a^2/2) + pc*(b*nc-nc*a)
 ### dE[lucro]/dnc = 0 = 1/(b-a)*(pv(nc-b) + pc(b-a)) =>
-### => pv*nc= pv(b)-pc(b-a) => nc= b - pc/pv*(b-a)
+### => pv*nc= pv(b)-pc(b-a) => nc = b - pc/pv*(b-a)
